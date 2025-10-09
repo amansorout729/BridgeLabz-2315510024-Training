@@ -1,0 +1,14 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+
+}
+button{
+    padding: 10px 20px;
+    background-color: rgb(242, 255, 0);
+    color: rgba(204, 13, 13, 0.74);
+    border: none;
+    border-radius: 5px;
+
+}
